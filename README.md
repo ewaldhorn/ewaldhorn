@@ -15,5 +15,5 @@ At the moment though, I'm doing a deep dive into the world of [Rust](https://www
 ## Find out more if you really need to
 Visit [my CodersRank profile](https://profile.codersrank.io/user/ewaldhorn) if you are utterly bored and want to see some pretty graphs, with a vague indication of how I keep myself busy.
 
-## Being picked on
-Oh my hat is Vanessa picking on me again? Whatever did I do!?
+## Being picked on by recruiters
+Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
