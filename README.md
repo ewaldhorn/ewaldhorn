@@ -12,8 +12,5 @@ Stuff. Lots and lots of stuff.  Usually, I'll be annyoing the Kotlin compiler by
 
 At the moment though, I'm doing a deep dive into the world of [Rust](https://www.rust-lang.org/), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.
 
-## Find out more if you really need to
-Visit [my CodersRank profile](https://profile.codersrank.io/user/ewaldhorn) if you are utterly bored and want to see some pretty graphs, with a vague indication of how I keep myself busy.
-
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
