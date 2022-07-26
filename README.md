@@ -10,7 +10,7 @@ Who cares? I'm just some random chap on the internet doing random things in rand
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annyoing the Kotlin compiler by either building esoteric Android apps or truly weird and whacky desktop apps using emerging technologies like Jetpack Compose.  If it's something that needs doing, I'll get busy doing it.  Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information.
 
-At the moment though, I'm doing a deep dive into the world of [Rust](https://www.rust-lang.org/), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.
+At the moment though, I'm doing a deep dive into the world of [Rust](https://www.rust-lang.org/), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.  I'm also playing around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/), getting a feel for the language and the possibilities both on the web and for building API's.
 
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
