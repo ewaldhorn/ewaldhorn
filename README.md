@@ -15,5 +15,3 @@ At the moment though, I'm doing a deep dive into the world of [Go](https://go.de
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 
-### Something something
-[![Ewald's GitHub stats](https://github-readme-stats.vercel.app/api?username=ewaldhorn)](https://github.com/anuraghazra/github-readme-stats)
