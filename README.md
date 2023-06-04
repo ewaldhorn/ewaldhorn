@@ -16,4 +16,4 @@ At the moment though, I'm doing a deep dive into the world of [Go](https://go.de
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 
 ### Maybe interesting to some
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact"/>
