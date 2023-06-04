@@ -15,5 +15,7 @@ At the moment though, I'm doing a deep dive into the world of [Go](https://go.de
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 
-### Maybe interesting to some
+### Language stats for public code repos
+This is interesting if you find it interesting, but really boring if you don't.
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact"/>
