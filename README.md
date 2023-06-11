@@ -10,7 +10,11 @@ Who cares? I'm just some random chap on the internet doing random things in rand
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annyoing some poor compiler by either building esoteric or truly weird and whacky apps using emerging technologies like.  If it's something that needs doing, I'll get busy doing it.  
 
-At the moment though, I'm doing a deep dive into the world of [Go](https://go.dev/) (aka Golang), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.  I'm also playing around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/), getting a feel for the language and the possibilities both on the web and for building API's.
+At the moment though, I'm doing a deep dive into the world of [Go](https://go.dev/) (aka Golang), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.  I'm also playing around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/), getting a feel for the language and the possibilities both on the web and for building API's. 
+
+## Just for giggles
+Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit
+at the moment as well.  For a 40+ year old language, it's still got some decent tricks! 
 
 ## Can we pay you to stay away
 Yes! Definitely! It might be cheaper to hire me, but, hey, whatever works for you is good!
