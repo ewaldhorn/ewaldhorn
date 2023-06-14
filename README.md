@@ -8,7 +8,7 @@ Just some things I've worked on.  I am always exploring technologies, trying new
 Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by humans or compilers.
 
 ## What I do
-Stuff. Lots and lots of stuff.  Usually, I'll be annyoing some poor compiler by either building esoteric or truly weird and whacky apps using emerging technologies like.  If it's something that needs doing, I'll get busy doing it.  
+Stuff. Lots and lots of stuff.  Usually, I'll be annyoing some poor [Kotlin](https://kotlinlang.org/) compiler by either building esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  That being said, I seldom work on mobile apps these days, as things like React Native and Flutter have mostly killed the need for native developers.  I still enjoy Kotlin, but for desktop, web-app and API development.
 
 At the moment though, I'm doing a deep dive into the world of [Go](https://go.dev/) (aka Golang), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, because I can design and implement API's that make life easier for my mobile development team members.  I'm also playing around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/), getting a feel for the language and the possibilities both on the web and for building API's. 
 
