@@ -15,6 +15,9 @@ I'm doing a deep dive into the world of [Go](https://go.dev/) (aka Golang), beca
 ## About mobile apps
 Yes, I'm well-known for working on Android apps in native, Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
+## You didn't mention .NET
+Oh, sorry, yeah.  Due to the nature of my work, I sometimes dabble in [C#](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) and [.NET](https://en.wikipedia.org/wiki/.NET_Framework). This does not mean I'm a fully-fledged .NET developer, just that I know enough to be dangerous...
+
 ## Just for giggles
 Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 40+ year old language, it's still got some decent tricks! 
 
