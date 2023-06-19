@@ -19,7 +19,7 @@ Yes, I'm well-known for working on Android apps in native, Flutter etc.  The rea
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm just not a good candidate.
 
 ## Just for giggles
-Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 40+ year old language, it's still got some decent tricks! 
+Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
 
 ## Can we pay you to stay away
 Yes! Definitely! It might be cheaper to hire me, but, hey, whatever works for you is good!
