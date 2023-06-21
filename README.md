@@ -8,12 +8,12 @@ Just some things I've worked on.  I am always exploring technologies, trying new
 Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by humans or compilers.
 
 ## What I do
-Stuff. Lots and lots of stuff.  Usually, I'll be annoying some poor [Kotlin](https://kotlinlang.org/) compiler by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  That being said, I very rarely work on mobile apps these days, as things like React Native and Flutter have mostly killed the need for native developers.  I still enjoy Kotlin, but for desktop, web-app and API development.
+Stuff. Lots and lots of stuff.  Usually, I'll be annoying some poor [Go](https://go.dev/) compiler by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  
 
-I'm doing a deep dive into the world of [Go](https://go.dev/) (aka Golang), because I find myself doing more backend and web assembly work these days.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  I'm also playing around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/), getting a feel for the language and the possibilities both on the web and for building API's. 
+I've also played around with [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go, and I'm preferring it more and more as it evolves and matures.
 
 ## About mobile apps
-Yes, I'm well-known for working on Android apps in native, Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
+Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C/C++-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm just not a good candidate.
@@ -30,6 +30,6 @@ Peeps looking to throw money at me for solving their problems can visit my [most
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 
 ### Language stats for public code repos
-This is interesting if you find it interesting, but really boring if you don't.
+This is interesting if you find this kind of thing interesting, but really boring if you don't.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact"/>
