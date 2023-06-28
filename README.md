@@ -16,7 +16,7 @@ I've also played around with [TypeScript](https://www.nofuss.co.za/blog/typescri
 Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C/C++-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
 ## You didn't mention .NET/C#/Xamarin
-That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm just not a good candidate.
+That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
 
 ## Just for giggles
 Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
