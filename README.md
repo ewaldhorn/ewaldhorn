@@ -28,8 +28,8 @@ Peeps looking to throw money at me for solving their problems can visit my [most
 
 ## Alright, how can we find out more about you
 
-[https://www.linkedin.com/in/ewaldhorn](https://www.linkedin.com/in/ewaldhorn)<br>
-[https://stackoverflow.com/users/991479/ewald](https://stackoverflow.com/users/991479/ewald)
+[LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
+[StackOverflow](https://stackoverflow.com/users/991479/ewald)
 <br>
 
 ## Being picked on by recruiters
