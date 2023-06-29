@@ -26,6 +26,13 @@ Yes! Definitely! It might be cheaper to hire me, but, hey, whatever works for yo
 
 Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information.
 
+## Alright, how can we find out more about you
+
+[<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/ewaldhorn](https://www.linkedin.com/in/ewaldhorn))
+
+[<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/991479/ewald](https://stackoverflow.com/users/991479/ewald))
+<br><br>
+
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 
