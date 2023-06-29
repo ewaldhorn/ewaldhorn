@@ -30,7 +30,7 @@ Peeps looking to throw money at me for solving their problems can visit my [most
 
 [https://www.linkedin.com/in/ewaldhorn](https://www.linkedin.com/in/ewaldhorn)<br>
 [https://stackoverflow.com/users/991479/ewald](https://stackoverflow.com/users/991479/ewald)
-<br><br>
+<br>
 
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
