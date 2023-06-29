@@ -28,9 +28,8 @@ Peeps looking to throw money at me for solving their problems can visit my [most
 
 ## Alright, how can we find out more about you
 
-[<img align="left" alt="linked-in" src="[https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)" />]([https://www.linkedin.com/in/ewaldhorn](https://www.linkedin.com/in/ewaldhorn))
-
-[<img align="left" alt="stack-overflow" src="[https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)" />]([https://stackoverflow.com/users/991479/ewald](https://stackoverflow.com/users/991479/ewald))
+[https://www.linkedin.com/in/ewaldhorn](https://www.linkedin.com/in/ewaldhorn)<br>
+[https://stackoverflow.com/users/991479/ewald](https://stackoverflow.com/users/991479/ewald)
 <br><br>
 
 ## Being picked on by recruiters
