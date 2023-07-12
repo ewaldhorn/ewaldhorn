@@ -38,4 +38,6 @@ Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
 ### Language stats for public code repos
 This is interesting if you find this kind of thing interesting, but really boring if you don't.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact" alt="language statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ewaldhorn&show_icons=true&count_private=true" alt="github statistics"/>
+
