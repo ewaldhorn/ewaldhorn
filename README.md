@@ -15,6 +15,9 @@ I've also used [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a 
 ## About mobile apps
 Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C/C++-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
+## Wait a second
+But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build mobile apps anymore, I do use Flutter and Dart to build desktop and web apps, especially data dashboards and such tools.
+
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
 
