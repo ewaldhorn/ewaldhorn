@@ -13,7 +13,9 @@ Stuff. Lots and lots of stuff.  Usually, I'll be annoying some poor [Go](https:/
 I've also used [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go or JavaScript, and I'm really happy with the flexibility of this combination.
 
 ## About mobile apps
-Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, NATIVE application that requires a bespoke C/C++-based layer, I might be interested.  I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
+Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, EXOTIC app that maybe requires a bespoke C/C++-based layer or is truly challenging, I might be interested.  
+
+As an aside, I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
 ## Wait a second
 But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build mobile apps anymore, I do use Flutter and Dart to build desktop and web apps, especially data dashboards and such tools.
