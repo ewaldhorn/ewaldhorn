@@ -10,15 +10,15 @@ Who cares? I'm just some random chap on the internet doing random things in rand
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annoying some poor [Go](https://go.dev/) compiler by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  I also spend some time building browser-based solutions using [JavaScript](https://en.wikipedia.org/wiki/JavaScript), not in the sense of websites, but more along the sense of web applications. The browser is a powerful platform that can do increasingly more impressive levels of complex work.
 
-I've also used [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go or JavaScript, and I'm really happy with the flexibility of this combination.
+I've also used [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go or Dart, and I'm really happy with the flexibility of this combination.
 
 ## About mobile apps
-Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left mobile behind. If it's a really tricky, EXOTIC app that maybe requires a bespoke C/C++-based layer or is truly challenging, I might be interested.  
+Yes, I'm well-known for working on Android native apps in Java,Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left generic mobile behind. If it's a really tricky, EXOTIC Flutter-based app that maybe also requires a bespoke C/C++-based layer or is truly challenging, I might be interested.  Just promise to not be offended if I'm not excited to build the "X of Y" style apps.
 
-As an aside, I'm definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
+As an aside, I'm also definitely not interested in "just finishing off an app that is 95% done already", for so many, many reasons. 
 
 ## Wait a second
-But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build mobile apps anymore, I do use Flutter and Dart to build desktop and web apps, especially data dashboards and such tools.
+But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build generic mobile apps anymore, I do use Flutter and Dart to build desktop and web apps, especially data dashboards and such tools. Now and again, you'll also find me rolling out a Flutter mobile app for a client, but that's the exception to the rule.
 
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
@@ -27,9 +27,9 @@ That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/a
 Oh my, I'm doing a lot of C to Go translation, so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
 
 ## Can we pay you to stay away
-Yes! Definitely! It might be cheaper to hire me, but, hey, whatever works for you is good!
+Yes! Definitely! It might actually be a bit cheaper to hire me, but, hey, whatever works for you is good!
 
-Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information.
+Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. I designed to logo myself. You can tell.
 
 ## Alright, how can we find out more about you
 
