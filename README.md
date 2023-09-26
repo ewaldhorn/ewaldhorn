@@ -20,6 +20,9 @@ As an aside, I'm also definitely not interested in "just finishing off an app th
 ## Wait a second
 But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build generic mobile apps anymore, I do use Flutter and Dart to build desktop and web apps, especially data dashboards and such tools. Now and again, you'll also find me rolling out a Flutter mobile app for a client, but that's the exception to the rule.
 
+## Getting Ziggy with it
+Corny, yeah, but I've now done a few small bits and bobs of projects in [Zig](https://ziglang.org/) and it's starting to grow on me, especially as a drop-in C-compiler replacement. Of course, there's more to Zig than just a great toolchain, the language itself is neat! Apart from small CLI utilities that I use during data migration operations, Zig has also proven to be a viable Web Assembly (wasm) language. I'm hoping to explore the world of Zig more in the new future.
+
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
 
