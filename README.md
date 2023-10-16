@@ -2,7 +2,7 @@
 This is my GitHub profile, true story!
 
 ## What's here
-Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all!
+Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all...
 
 ## Who am I
 Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by humans or compilers.
@@ -32,12 +32,13 @@ That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/a
 ## Can we pay you to stay away
 Yes! Definitely! It might actually be a bit cheaper to hire me, but, hey, whatever works for you is good!
 
-Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. I designed to logo myself. You can tell.
+Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. I designed the awesome logo myself. You can tell.
 
 ## Alright, how can we find out more about you
 
 [LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
 [StackOverflow](https://stackoverflow.com/users/991479/ewald)
+[NoFuss Solutions Website](https://www.nofuss.co.za/)
 <br>
 
 ## Being picked on by recruiters
