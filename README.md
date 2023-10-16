@@ -32,7 +32,9 @@ That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/a
 ## Can we pay you to stay away
 Yes! Definitely! It might actually be a bit cheaper to hire me, but, hey, whatever works for you is good!
 
-Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. I designed the awesome logo myself. You can tell.
+Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. 
+
+Sorry, I designed the logo myself. You can tell.
 
 ## Alright, how can we find out more about you
 
