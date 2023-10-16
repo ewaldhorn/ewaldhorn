@@ -37,8 +37,8 @@ Peeps looking to throw money at me for solving their problems can visit my [most
 ## Alright, how can we find out more about you
 
 [LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
-[StackOverflow](https://stackoverflow.com/users/991479/ewald)
-[NoFuss Solutions Website](https://www.nofuss.co.za/)
+[StackOverflow](https://stackoverflow.com/users/991479/ewald)<br>
+[NoFuss Solutions Website](https://www.nofuss.co.za/)<br>
 <br>
 
 ## Being picked on by recruiters
