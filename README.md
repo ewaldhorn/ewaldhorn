@@ -41,6 +41,7 @@ Sorry, I designed the logo myself. You can tell.
 [LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
 [StackOverflow](https://stackoverflow.com/users/991479/ewald)<br>
 [NoFuss Solutions Website](https://www.nofuss.co.za/)<br>
+[GitLab](https://gitlab.com/ewaldhorn)<br>
 
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
