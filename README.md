@@ -5,7 +5,7 @@ This is my GitHub profile, true story!
 Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all...
 
 ## Who am I
-Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any thing.
+Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any, errr, _entity_.
 
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annoying some poor [Kotlin](https://kotlinlang.org/) or [Go](https://go.dev/) compiler by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  I also spend some time building browser-based solutions using [JavaScript](https://en.wikipedia.org/wiki/JavaScript), not in the sense of websites, but more along the sense of web applications. The browser is a powerful platform that can do increasingly more impressive levels of complex work.
