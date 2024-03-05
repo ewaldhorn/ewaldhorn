@@ -38,6 +38,10 @@ Sorry, I designed the logo myself. You can tell.
 
 ## Alright, how can we find out more about you
 
+You should probably check out my [About](https://www.nofuss.co.za/about/) page, it also has a handy list to some of the talks I've given and their atrocious slides and source code, where available.
+
+Besides that, I've been on the internet for a bit and you'll find me in the usual places:
+
 [LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
 [StackOverflow](https://stackoverflow.com/users/991479/ewald)<br>
 [NoFuss Solutions Website](https://www.nofuss.co.za/)<br>
