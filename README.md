@@ -1,5 +1,7 @@
 ### Hi there 👋
-This is my GitHub profile, true story!  I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one seems quiet, check there, maybe I'm working on something for a client that prefers a different service.
+This is my GitHub profile, true story!  
+
+I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one seems quiet, check there, maybe I'm working on something for a client that prefers a different service.
 
 ## What's here
 Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all...
