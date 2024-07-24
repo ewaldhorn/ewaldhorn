@@ -4,7 +4,7 @@ This is my GitHub profile, true story!
 I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one seems quiet, check there, maybe I'm working on something for a client that prefers a different service.
 
 ## What's here
-Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all...
+Just some things I've worked on.  I am always exploring technologies, trying new things and learning in the process.  You'll find some code I've worked on here, but please be careful running it on your machine - it is experimental, after all...  If you are here looking for one of my _TALKS_, I try to keep a list going on [my website](https://www.nofuss.co.za/about/) that links to videos and resources, where available.
 
 ## Who am I
 Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any, errr, _entity_.
