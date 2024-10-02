@@ -63,6 +63,8 @@ This is interesting if you find this kind of thing interesting, but really borin
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ewaldhorn&theme=github" alt="profile statistics"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact&langs_count=10" alt="language statistics"/>
 
+---
+
 #### Wow, you got this far
 Can't believe it.  Alright, you can go see the [toys](https://nofuss.co.za/toys/) if you like.
 
