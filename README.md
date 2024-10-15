@@ -14,7 +14,7 @@ Who cares? I'm just some random chap on the internet doing random things in rand
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annoying the [Go](https://go.dev/) or [TinyGo](https://tinygo.org/) compilers by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  I also spend some time building browser-based solutions using [JavaScript](https://en.wikipedia.org/wiki/JavaScript), not so much websites, but usually more along the line of web applications. The browser is a powerful platform that can do increasingly more impressive levels of complex work.
 
-I've also used [TypeScript](https://www.nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go and/or JavaScript, and I'm really happy with the flexibility of this combination, especially since it also opens up a world of possibilities in the [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) space. My take on [Wasm](https://en.wikipedia.org/wiki/WebAssembly) is that is really opens up new frontiers and I'm actively exploring it to deliver even more value to my clients. Towards that end, I've also used [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) to build Wasm modules for some projects.
+I've also used [TypeScript](https://nofuss.co.za/blog/typescript_canvas/) a bit, to get a feel for the language and the possibilities both on the web and for building API's.  Still, pretty much all of my work these days revolve around Go and/or JavaScript, and I'm really happy with the flexibility of this combination, especially since it also opens up a world of possibilities in the [WebAssembly](https://en.wikipedia.org/wiki/WebAssembly) space. My take on [Wasm](https://en.wikipedia.org/wiki/WebAssembly) is that is really opens up new frontiers and I'm actively exploring it to deliver even more value to my clients. Towards that end, I've also used [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) to build Wasm modules for some projects.
 
 ## About mobile apps
 Yes, I'm known for having worked on Android apps in Java, Kotlin and C++, as well as in Flutter etc.  The reality is that the need for niche developers have shrunk and I'm rather tired of building the same app over and over and over. So I've mostly left generic mobile behind. If it's a really tricky app that maybe also requires a bespoke Rust/C/C++ layer or is truly challenging, I might be interested.  Just promise to not be offended if I'm not excited to build the "X of Y" style apps.
@@ -36,13 +36,13 @@ That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/a
 ## Can we pay you to stay away
 Yes! Definitely! It might actually be a bit cheaper to hire me, but, hey, whatever works for you is good!
 
-Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://www.nofuss.co.za/) for more information. 
+Peeps looking to throw money at me for solving their problems can visit my [most awesome website](https://nofuss.co.za/) for more information. 
 
 Sorry, I designed the logo myself. You can tell.
 
 ## Alright, how can we find out more about you
 
-You should probably check out my [About](https://www.nofuss.co.za/about/) page, it also has a handy list to some of the talks I've given and their atrocious slides and source code, where available.
+You should probably check out my [About](https://nofuss.co.za/about/) page, it also has a handy list to some of the talks I've given and their atrocious slides and source code, where available.
 
 Besides that, I've been on the internet for a bit and you'll find me in the usual places:
 
