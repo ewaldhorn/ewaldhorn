@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my GitHub profile, true story!  
+This is my GitHub profile for public work.  
 
 ******************************************************************************************************* <br><br>
 I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one appears quiet, check there, I'm probably working on something for a client that prefers a different service. <br><br>
