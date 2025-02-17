@@ -64,7 +64,7 @@ This is interesting if you find this kind of thing interesting, but really borin
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ewaldhorn&theme=github" alt="profile statistics"/>
 
-<br><br>Language stats can be misleading... Just because I use a lot of JavaScript doesn't mean I write a lot of JavaScript.  Sigh. Statics are just lies!<br><br>
+<br>Language stats can be misleading... Just because I use a lot of JavaScript doesn't mean I write a lot of JavaScript.  Sigh. Statics are just lies!<br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ewaldhorn&layout=compact&langs_count=10" alt="language statistics"/>
 
