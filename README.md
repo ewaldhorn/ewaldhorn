@@ -10,6 +10,9 @@ Just some things I've worked on.  I am always exploring technologies, trying new
 
 ** _If you are here looking for one of my talks, ask yourself why'd you do that to yourself?! If you insist, I try to keep a list going on [my website](https://nofuss.co.za/about/) that links to videos and resources, where available._ **
 
+## Toys
+Most peeps just come here looking for the [toys](https://nofuss.co.za/toys/) secion. Well, you found it! Go check out the [toys](https://nofuss.co.za/toys/) right away.
+
 ## Who am I
 Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any, errr, _entity_.
 
