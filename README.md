@@ -35,6 +35,9 @@ Corny, yeah, but I've now done a few small bits and bobs of projects in [Zig](ht
 ## Just for giggles - C what I did here
 Oh my, I'm doing a lot of C to Go translation (and most recently Zig), so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
 
+## Odin't expect that
+Nope, you didn't. But check out [Odin](https://odin-lang.org/) anyway. It's an interesting lower-level programming language that I'm exploring for WASM builds because why not?
+
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
 
