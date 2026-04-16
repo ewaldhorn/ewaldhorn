@@ -59,6 +59,7 @@ Besides that, I've been on the internet for a bit and you'll find me in the usua
 [NoFuss Solutions Website](https://nofuss.co.za/)<br>
 [Onee Page](https://onee.page/ewaldhorn)<br>
 [GitLab](https://gitlab.com/ewaldhorn)<br>
+[Space Story](https://spacestory.co.za/)<br>
 
 ## Being picked on by recruiters
 Oh my hat is Vanessa picking on my dumb profile again? Hello Vanessa!
