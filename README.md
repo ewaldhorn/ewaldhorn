@@ -32,6 +32,8 @@ But, if I don't build mobile apps anymore, why is there so much [Flutter](https:
 ## Getting Ziggy with it
 Corny, yeah, but I've now done a few small bits and bobs of projects in [Zig](https://ziglang.org/) and it's starting to grow on me, especially as a drop-in C-compiler replacement. Of course, there's more to Zig than just a great toolchain, the language itself is neat! Apart from small CLI utilities that I use during data migration operations, Zig has also proven to be a viable Web Assembly (wasm) language. I'm happily exploring the world of Zig a bit more as I think it has great potential to help solve some of the challenges my clients face.
 
+A fun little project I built in Zig is a simple BASIC interpreter that runs in the browser. [ZigBASIC](https://nofuss.co.za/zigbasic/) uses Zig to create a sandbox environment in your browser where you can execute a BASIC-based language. I've also been working on a space RTS game at [SpacesStory](https://spacesstory.com/) that's a really heavy Zig project. Graphics, sound, input, basic AI etc. all in one game.
+
 ## Just for giggles - C what I did here
 Oh my, I'm doing a lot of C to Go translation (and most recently Zig), so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
 
