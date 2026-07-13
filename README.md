@@ -1,6 +1,8 @@
 ### Hi there 👋
 This is my GitHub profile for public work.  
 
+I'm a freelance software engineer based in Cape Town, South Africa. I work globally (remotely) on contract in languages like Go, Zig, Python, Odin, JavaScript or, if you have tons of cash, Pascal!
+
 ******************************************************************************************************* <br><br>
 I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one appears quiet, check there, I'm probably working on something for a client that prefers a different service. <br><br>
 ******************************************************************************************************* <br>
@@ -14,7 +16,7 @@ Just some things I've worked on.  I am always exploring technologies, trying new
 Most peeps just come here looking for the [toys](https://nofuss.co.za/toys/) secion. Well, you found it! Go check out the [toys](https://nofuss.co.za/toys/) right away.
 
 ## Who am I
-Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm talking about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any, errr, _entity_.
+Who cares? I'm just some random chap on the internet doing random things in random technologies.  Don't believe all the stories you hear. I probably don't know what I'm doing, certainly don't know what I'm [talking](https://nofuss.co.za/about/) about and most definitely should not be allowed to write code that's seen by anyone, or, these days, any, errr, _entity_.
 
 ## What I do
 Stuff. Lots and lots of stuff.  Usually, I'll be annoying the [Go](https://go.dev/) or [TinyGo](https://tinygo.org/) compilers by building either esoteric or truly weird and whacky solutions.  If it's something that needs doing, I'll get busy doing it.  Having a lot of mobile experience is beneficial, as I can design and implement API's that make life easier for my mobile development team members.  I also spend some time building browser-based solutions using [JavaScript](https://en.wikipedia.org/wiki/JavaScript), not so much websites, but usually more along the line of web applications. The browser is a powerful platform that can do increasingly more impressive levels of complex work.
