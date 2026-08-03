@@ -40,7 +40,11 @@ A fun little project I built in Zig is a simple BASIC interpreter that runs in t
 Oh my, I'm doing a lot of C to Go translation (and most recently Zig), so I'm busy refreshing my [C](https://en.wikipedia.org/wiki/C_(programming_language)) knowledge a bit as well.  For a 50+ year old language, it's still got some decent tricks and is very useful for cross-platform development.
 
 ## Odin't expect that
-Nope, you didn't. But check out [Odin](https://odin-lang.org/) anyway. It's an interesting lower-level programming language that I'm exploring for WASM builds because why not?
+Nope, you didn't. But check out [Odin](https://odin-lang.org/) anyway. It's an interesting lower-level programming language that I'm exploring for WASM builds because why not? Also, because I clearly have too much time on my hands, I wrote some build-along book-style Odin tutorials:
+
+[Odin and Me](https://nofuss.co.za/odin_and_me/) - Getting started with Odin<br>
+[Yo Odin](https://nofuss.co.za/yo_odin/) - Build a Web Assembly (wasm) game with Odin<br>
+[Odin't know that](https://nofuss.co.za/odint_know_that/) - Build a desktop arcade game with Odin<br>
 
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
