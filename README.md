@@ -62,7 +62,6 @@ You should probably check out my [About](https://nofuss.co.za/about/) page, it a
 
 Besides that, I've been on the internet for a bit and you'll find me in the usual places:
 
-[LinkedIn](https://www.linkedin.com/in/ewaldhorn)<br>
 [StackOverflow](https://stackoverflow.com/users/991479/ewald)<br>
 [NoFuss Solutions Website](https://nofuss.co.za/)<br>
 [Onee Page](https://onee.page/ewaldhorn)<br>
