@@ -46,6 +46,8 @@ Nope, you didn't. But check out [Odin](https://odin-lang.org/) anyway. It's an i
 [Yo Odin](https://nofuss.co.za/yo_odin/) - Build a Web Assembly (wasm) game with Odin<br>
 [Odin't know that](https://nofuss.co.za/odint_know_that/) - Build a desktop arcade game with Odin<br>
 
+Apart from the books, I've also built a simple [Pascal compiler](https://nofuss.co.za/wasmpascal/) that allows you to write Pascal code, in the browser, compile it and run it, still just in the browser.
+
 ## You didn't mention .NET/C#/Xamarin
 That's correct. I used to work in [Xamarin](https://dotnet.microsoft.com/en-us/apps/xamarin), but haven't in years and I'm so out of touch with the .NET world now that I'm a hard .NO for this kind of work.
 
