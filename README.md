@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my GitHub profile for public work.  
 
-I'm a freelance software engineer based in Cape Town, South Africa. I work globally (remotely) on contract in languages like Go, Zig, Python, Odin, JavaScript or, if you have tons of cash, Pascal!
+I'm a freelance software engineer based in Cape Town, South Africa. I work globally (remotely) on contract in languages like Go, Java, Python, Odin, JavaScript or, if you have tons of cash, Pascal!
 
 ******************************************************************************************************* <br><br>
 I also have a [GitLab](https://gitlab.com/ewaldhorn) profile, so if this one appears quiet, check there, I'm probably working on something for a client that prefers a different service. <br><br>
