@@ -87,6 +87,28 @@ This is interesting if you find this kind of thing interesting, but really borin
 
 ---
 
+### 🕹️ My GitHub Arcade & Stats
+
+<!-- Retro-Arcade Game: Your commit history as a Pac-Man game board -->
+<p align="center">
+  <img src="https://vercel.app" alt="Ewald's Stats" width="48%" />
+  <img src="https://herokuapp.com" alt="Ewald's Streak" width="48%" />
+</p>
+
+<!-- RPG Achievement Trophies: Dynamically displays earned ranking badges -->
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<!-- Top Languages Matrix -->
+<p align="center">
+  <img src="https://vercel.app" alt="Top Languages" />
+</p>
+
+---
+
 #### Wow, you got this far
 Can't believe it.  Alright, you can go see the [toys](https://nofuss.co.za/toys/) if you like.
 
