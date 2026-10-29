@@ -92,7 +92,7 @@ This is interesting if you find this kind of thing interesting, but really borin
 <!-- Retro-Arcade Game: Your commit history as a Pac-Man game board -->
 <p align="center">
   <img src="https://vercel.app" alt="Ewald's Stats" width="48%" />
-  <img src="https://herokuapp.com" alt="Ewald's Streak" width="48%" />
+  <img src="https://demolab.com" alt="Ewald's Streak" width="48%" />
 </p>
 
 <!-- RPG Achievement Trophies: Dynamically displays earned ranking badges -->
