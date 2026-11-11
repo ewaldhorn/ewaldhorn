@@ -31,6 +31,9 @@ As an aside, I'm also definitely not interested in "just finishing off an app th
 ## Wait a second
 But, if I don't build mobile apps anymore, why is there so much [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) code here? And it seems like more is added now and again? Well, you see, while I mostly don't build generic mobile apps anymore, I do use Flutter and Dart to build highly bespoke desktop and web apps, especially data visualisation dashboards and such tools. Now and again, you'll also find me rolling out a Flutter mobile app for a client, but that's the exception to the rule.
 
+## So what's GOing on these days
+Well, you know, speaking of Go... I've been [busy writing a game](https://nofuss.co.za/games/space_marines/) in Go that runs in the browser. Why? Well, my corporate work also involves a lot of browser-based work, but I can't really show what I do there because of NDA's and general trust clients put in me. But I still want to experiment publicly with performance tuning and doing heavier work in the browser than what folks assume is normal. And it's fun! Check it out, plain old Go compiled to WebAssembly running in the browser. Who'd have thought this was possible just a few years ago?
+
 ## Getting Ziggy with it
 Corny, yeah, but I've now done a few small bits and bobs of projects in [Zig](https://ziglang.org/) and it's starting to grow on me, especially as a drop-in C-compiler replacement. Of course, there's more to Zig than just a great toolchain, the language itself is neat! Apart from small CLI utilities that I use during data migration operations, Zig has also proven to be a viable Web Assembly (wasm) language. I'm happily exploring the world of Zig a bit more as I think it has great potential to help solve some of the challenges my clients face.
 
